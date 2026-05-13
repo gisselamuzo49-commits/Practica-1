@@ -37,7 +37,7 @@ function App() {
         <h1 className="header-title">
           <span className="gradient-text">LISTA</span> DE TAREAS
         </h1>
-        <p className="subtitle">PRUEBA 1</p>
+        <p className="subtitle">PRUEBA EN CLASE </p>
 
         <form onSubmit={addTask} className="input-group">
           <input
